@@ -8,8 +8,10 @@ project(Template VERSION 1.0.0)
 
 # Set up the mod binary
 add_library(${PROJECT_NAME} SHARED
-    src/**.cpp
-    src/**.hpp
+    src/Manager.cpp
+    src/Manager.hpp
+    src/Utils.cpp
+    src/Utils.hpp
     # Add any extra C++ source files here
 )
 
