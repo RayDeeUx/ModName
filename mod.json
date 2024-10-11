@@ -1,5 +1,5 @@
 {
-	"geode": "3.2.0",
+	"geode": "3.8.1",
 	"gd": {
 		"win": "2.206",
 		"mac": "2.206",
@@ -19,6 +19,9 @@
 			"default": true
 		}
 	},
+	"tags":	[
+		"modtober24"
+	],
 	"resources": {
 		"files": [
 			"resources/*.png"
