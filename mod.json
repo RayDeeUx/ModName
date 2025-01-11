@@ -1,16 +1,16 @@
 {
-	"geode": "4.0.1",
+	"geode": "$GEODE_VERSION",
 	"gd": {
 		"win": "2.2074",
 		"mac": "2.2074",
 		"android": "2.2074"
 	},
-	"id": "raydeeux.modname",
-	"name": "ModName",
+	"id": "$MOD_ID",
+	"name": "$MOD_NAME",
 	"version": "v1.0.0",
 	"developer": "RayDeeUx",
-	"description": "TodoReturn",
-	"repository": "https://github.com/RayDeeUx/ModName",
+	"description": "$MOD_DESCRIPTION",
+	"repository": "https://github.com/RayDeeUx/$MOD_NAME",
 	"settings": {
 		"enabled": {
 			"name": "Enabled",
