@@ -1,9 +1,9 @@
 {
-	"geode": "3.8.1",
+	"geode": "4.0.1",
 	"gd": {
-		"win": "2.206",
-		"mac": "2.206",
-		"android": "2.206"
+		"win": "2.2074",
+		"mac": "2.2074",
+		"android": "2.2074"
 	},
 	"id": "raydeeux.modname",
 	"name": "ModName",
@@ -19,11 +19,8 @@
 			"default": true
 		}
 	},
-	"tags":	[
-		"modtober24"
-	],
 	"resources": {
-		"files": [
+		"sprites": [
 			"resources/*.png"
 		]
 	},

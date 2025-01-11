@@ -12,6 +12,7 @@ add_library(${PROJECT_NAME} SHARED
     src/Manager.hpp
     src/Utils.cpp
     src/Utils.hpp
+    src/main.cpp
     # Add any extra C++ source files here
 )
 

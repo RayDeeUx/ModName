@@ -1,3 +1,3 @@
 # ModName Changelog
-## 1.0.0
+## v1.0.0
 - Initial release (on GitHub).
