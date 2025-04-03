@@ -1,4 +1,4 @@
-name: RelWithDebInfo
+name: Release
 
 on:
   workflow_dispatch:
@@ -36,11 +36,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build the mod (RelWithDebInfo)
+      - name: Build the mod (Release)
         uses: geode-sdk/build-geode-mod@main
         with:
-          build-config: RelWithDebInfo
-          export-pdb: true
+          # build-config: RelWithDebInfo
+          # export-pdb: true
           # bindings: RayDeeUx/bindings
           # bindings-ref: "foobar"
           combine: true
