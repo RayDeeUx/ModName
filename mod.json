@@ -1,17 +1,17 @@
 {
-	"geode": "4.3.1",
+	"geode": "4.4.0",
 	"gd": {
 		"win": "2.2074",
 		"mac": "2.2074",
-		"android": "2.2074",
-		"ios": "2.2074"
+		"ios": "2.2074",
+		"android": "2.2074"
 	},
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
+	"id": "raydeeux.modname",
+	"name": "ModName",
 	"version": "v1.0.0",
 	"developer": "RayDeeUx",
-	"description": "$MOD_DESCRIPTION",
-	"repository": "https://github.com/RayDeeUx/$MOD_NAME",
+	"description": "Mod description.",
+	"repository": "https://github.com/RayDeeUx/ModName",
 	"settings": {
 		"enabled": {
 			"name": "Enabled",
